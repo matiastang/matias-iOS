@@ -452,7 +452,10 @@ extension ViewController {
 //        WKUserScript：用于进行JavaScript注入
         //以下代码适配文本大小，由UIWebView换为WKWebView后，会发现字体小了很多，这应该是WKWebView与html的兼容问题，解决办法是修改原网页，要么我们手动注入JS
 //        let jSString = "var meta = document.createElement('meta'); meta.setAttribute('name', 'viewport'); meta.setAttribute('content', 'width=device-width'); document.getElementsByTagName('head')[0].appendChild(meta);"
-        let jSString = "document.body.style.background = rgb(211, 211, 211);"
+//        let jSString = "document.body.style.background = rgb(211, 211, 211);"
+        let jSString = """
+                document.body.style.background = "blue";
+        """
         //用于进行JavaScript注入
         let wkUScript = WKUserScript.init(source: jSString, injectionTime: .atDocumentEnd, forMainFrameOnly: true, in: contentWorld)
         config.userContentController.addUserScript(wkUScript)

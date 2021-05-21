@@ -15,8 +15,8 @@
             filePath = "iOSShare/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "722"
-            endingLineNumber = "722"
+            startingLineNumber = "725"
+            endingLineNumber = "725"
             landmarkName = "webView(_:didFinish:)"
             landmarkType = "7">
             <Actions>
@@ -65,8 +65,8 @@
             filePath = "iOSShare/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "502"
-            endingLineNumber = "502"
+            startingLineNumber = "505"
+            endingLineNumber = "505"
             landmarkName = "webView(_:createWebViewWith:for:windowFeatures:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -81,8 +81,8 @@
             filePath = "iOSShare/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "478"
-            endingLineNumber = "478"
+            startingLineNumber = "481"
+            endingLineNumber = "481"
             landmarkName = "userContentController(_:didReceive:replyHandler:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -145,42 +145,10 @@
             filePath = "iOSShare/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "537"
-            endingLineNumber = "537"
+            startingLineNumber = "540"
+            endingLineNumber = "540"
             landmarkName = "webView(_:runJavaScriptConfirmPanelWithMessage:initiatedByFrame:completionHandler:)"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "776ACBAA-4BC5-4086-8763-C59F0DD94AB8 - 6f27875235e7c943"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "iOSShare.ViewController.webView(_: __C.WKWebView, runJavaScriptConfirmPanelWithMessage: Swift.String, initiatedByFrame: __C.WKFrameInfo, completionHandler: (Swift.Bool) -&gt; ()) -&gt; ()"
-                  moduleName = "iOSShare"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/matias/Desktop/MarkDown/tangdaoyong-share/iOS/iOSShare/iOSShare/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "538"
-                  endingLineNumber = "538"
-                  offsetFromSymbolStart = "215">
-               </Location>
-               <Location
-                  uuid = "776ACBAA-4BC5-4086-8763-C59F0DD94AB8 - 86d1a44c86d14593"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (__C.UIAlertAction) -&gt; () in iOSShare.ViewController.webView(_: __C.WKWebView, runJavaScriptConfirmPanelWithMessage: Swift.String, initiatedByFrame: __C.WKFrameInfo, completionHandler: (Swift.Bool) -&gt; ()) -&gt; ()"
-                  moduleName = "iOSShare"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/matias/Desktop/MarkDown/tangdaoyong-share/iOS/iOSShare/iOSShare/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "539"
-                  endingLineNumber = "539"
-                  offsetFromSymbolStart = "25">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -193,42 +161,10 @@
             filePath = "iOSShare/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "551"
-            endingLineNumber = "551"
+            startingLineNumber = "554"
+            endingLineNumber = "554"
             landmarkName = "webView(_:runJavaScriptTextInputPanelWithPrompt:defaultText:initiatedByFrame:completionHandler:)"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "BDFB67F0-BCB6-4C01-AA5E-C5D1428F5F11 - d7aefde32294baa5"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "iOSShare.ViewController.webView(_: __C.WKWebView, runJavaScriptTextInputPanelWithPrompt: Swift.String, defaultText: Swift.Optional&lt;Swift.String&gt;, initiatedByFrame: __C.WKFrameInfo, completionHandler: (Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "iOSShare"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/matias/Desktop/MarkDown/tangdaoyong-share/iOS/iOSShare/iOSShare/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "552"
-                  endingLineNumber = "552"
-                  offsetFromSymbolStart = "248">
-               </Location>
-               <Location
-                  uuid = "BDFB67F0-BCB6-4C01-AA5E-C5D1428F5F11 - f523fbfb958d4a94"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (__C.UITextField) -&gt; () in iOSShare.ViewController.webView(_: __C.WKWebView, runJavaScriptTextInputPanelWithPrompt: Swift.String, defaultText: Swift.Optional&lt;Swift.String&gt;, initiatedByFrame: __C.WKFrameInfo, completionHandler: (Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "iOSShare"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/matias/Desktop/MarkDown/tangdaoyong-share/iOS/iOSShare/iOSShare/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "553"
-                  endingLineNumber = "553"
-                  offsetFromSymbolStart = "59">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -241,8 +177,8 @@
             filePath = "iOSShare/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "523"
-            endingLineNumber = "523"
+            startingLineNumber = "526"
+            endingLineNumber = "526"
             landmarkName = "webView(_:runJavaScriptAlertPanelWithMessage:initiatedByFrame:completionHandler:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -257,8 +193,8 @@
             filePath = "iOSShare/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "468"
-            endingLineNumber = "468"
+            startingLineNumber = "471"
+            endingLineNumber = "471"
             landmarkName = "userContentController(_:didReceive:)"
             landmarkType = "7">
          </BreakpointContent>
